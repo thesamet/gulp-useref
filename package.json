@@ -16,6 +16,7 @@
     "through2": "^0.6.1"
   },
   "devDependencies": {
+    "concat-with-sourcemaps": "^0.1.6",
     "mocha": "*",
     "should": "*",
     "gulp-mocha": "^1.0.0",
